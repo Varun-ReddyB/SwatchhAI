@@ -1,0 +1,5 @@
+{
+  "name": "SwatchhAI Mobile",
+  "description": "Advanced AI-Powered Waste Management Mobile App Experience.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
